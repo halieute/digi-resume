@@ -18,7 +18,7 @@ DESCRIPTION = """
 A dedicated and highly skilled Fisheries and Aquaculture Specialist with over 2 years of experience in fisheries management, aquaculture practices, and environmental assessment. Expertise in sustainable resource management, marine biology, and ecological impact studies. Proven ability to conduct comprehensive environmental assessments and develop strategic plans to enhance aquaculture production while ensuring ecological balance.
 """
 EMAIL = "souleymanemamannourisouley1995@gmail.com", 
-"souleymane.m@edu.wascal.org"
+        "souleymane.m@edu.wascal.org"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "www.linkedin.com/in/souleymanemamannourisouley",
