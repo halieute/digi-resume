@@ -20,7 +20,7 @@ A dedicated and highly skilled Fisheries and Aquaculture Specialist with over 2 
 EMAIL = "souleymanemamannourisouley1995@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "www.linkedin.com/in/souleymane-maman-nouri-souley-06b88a1a9",
+    "LinkedIn": "www.linkedin.com/in/souleymanemamannourisouley",
     "GitHub": "https://github.com/halieute",
     "Twitter": "https://x.com/NouriSoule22856?t=4zDyk1SPtPulr55QZVjeXw&s=09",
 }
